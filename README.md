@@ -6,7 +6,7 @@
 - > Programming
 
 - 🌱 I’m currently learning 
-- > Flutter
+- > React JS
 - > Machine Learning
 
 - 💞️ I’m looking to collaborate on 
