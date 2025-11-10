@@ -6,10 +6,11 @@
 ### About Me
 - 👀 I’m interested in 
 - > Problem Solving
-- > Web Development
+- > Software Engineering
+- > Productivity
 
 - 🧠 I'm currently learning 
-- > React JS
+- > Backend Development
 - > Docker
 - > Machine Learning
 
